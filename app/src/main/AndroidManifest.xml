@@ -13,7 +13,7 @@
         android:theme="@style/Theme.JetpackPlayground"
         tools:targetApi="31">
         <activity
-            android:name=".Modifier_Layout"
+            android:name=".State_Handle"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.JetpackPlayground">
