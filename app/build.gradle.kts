@@ -72,4 +72,7 @@ dependencies {
 
     // material icons
     implementation(libs.materialIcon)
+
+    // navigation
+    implementation(libs.navigation)
 }
